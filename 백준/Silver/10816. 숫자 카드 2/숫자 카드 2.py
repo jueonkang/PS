@@ -3,7 +3,6 @@ card = list(map(int,input().split()))
 m =int(input())
 count = map(int,input().split())
 
-card.sort()
 a = {}
 
 for x in card: 
